@@ -1,6 +1,6 @@
 ## Introduction
 
-Ce projet vise à recréer le concept de fonctionnement de Minecraft en python. Pour cela, le programme utilise le moteur Ursina.
+Ce projet vise à recréer le concept de fonctionnement de Minecraft en python. Pour cela, le programme utilise le moteur Ursina.  
 
 Fonctionnalités :
 - Génération aléatoire d'une map (avec height map aléatoire et placement d'arbres aléatoires également)
@@ -20,16 +20,16 @@ pip install ursina
 
 ## Contrôles
 
-Déplacement : ZQSD
-Saut : Espace
-Poser un bloc : Clic gauche
-Détruire un bloc : Clic droit
+Déplacement : ZQSD  
+Saut : Espace  
+Poser un bloc : Clic gauche  
+Détruire un bloc : Clic droit  
 
-Choisir le type de bloc à poser :
-1 : Herbe
-2 : Pierre
-3 : Bois
-4 : Feuilles
+Choisir le type de bloc à poser :  
+1 : Herbe  
+2 : Pierre  
+3 : Bois  
+4 : Feuilles  
 
 Quitter : Echap
 
