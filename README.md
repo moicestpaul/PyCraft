@@ -8,7 +8,7 @@ Fonctionnalités :
 
 > Chaque bloc est considéré comme une entité unique, le programme ne permet donc pas de générer de grandes cartes de manière fluide. Pour garder une bonne fluidité, il vaut mieux ne pas dépasser une taille de carte de 25*25 blocs. Si le programme ne tourne pas de manière fluide sur votre ordinateur, baissez la taille de la carte.
 
-[![PyCraft_Screenshot](https://i.postimg.cc/ydS3ZGCy/333135456-780258066939173-826262856911322325-n.png "PyCraft_Screenshot")](https://i.postimg.cc/ydS3ZGCy/333135456-780258066939173-826262856911322325-n.png "PyCraft_Screenshot")
+[![PyCraft_Screenshot](https://github.com/moicestpaul/PyCraft/blob/3bf561daf4cb9a5c285ab83911dcfac844ebe935/assets/screenshot.png "PyCraft_Screenshot")](https://github.com/moicestpaul/PyCraft/blob/3bf561daf4cb9a5c285ab83911dcfac844ebe935/assets/screenshot.png "PyCraft_Screenshot")
 
 ## Installation
 
